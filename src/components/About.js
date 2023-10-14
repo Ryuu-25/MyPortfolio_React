@@ -9,11 +9,8 @@ const About = () => {
        I've done multiple small projects to learn basics and now doing more complex projects. 
 
       </p>
-      <a href={resume} download className="btn btn-primary mt-5 custom-btn fw-bold">Download My Resume</a>
       <h3 className='pt-5 pb-2 custom-color'>Languages and tools I use:</h3>
-
       <p className='lead'>
-        
         <FaBootstrap className='m-2' style={{width:"35", height:"35", color: '#7a14f5'}}/>
       
       </p>
